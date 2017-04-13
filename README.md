@@ -1,8 +1,9 @@
 # Solution to [*The Nature Conservancy Fisheries Monitoring*](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) Kaggle Competition
-### Ranked [*/2336] (Top *%) as Team sNoW
 
 
 ## Model description
+1. dfd
+2. f
 
 
 ## Platform and package
